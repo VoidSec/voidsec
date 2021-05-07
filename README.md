@@ -16,12 +16,10 @@ He is also an active speaker in various security conferences around the globe li
 
 Contact me: [![](https://img.shields.io/badge/voidsec@voidsec.com-0078D4?style=flat-square&logo=Microsoft-Outlook&labelColor=0078D4&logoColor=ffffff)](mailto:voidsec@voidsec.com)
 
-## Statistics
+## Statistics <img src="https://visitor-badge.laobi.icu/badge?page_id=voidsec.voidsec" alt="visitor badge"/>  
 <a href="https://github.com/voidsec/voidsec">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=voidsec&count_private=true&show_icons=true&theme=chartreuse-dark" />
 </a>
 <a href="https://github.com/voidsec/voidsec">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voidsec&layout=compact&theme=chartreuse-dark&langs_count=8" />
 </a>
-<br>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=voidsec.voidsec" alt="visitor badge"/>  
