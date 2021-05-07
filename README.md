@@ -8,7 +8,8 @@ He is now a freelance **Security Researcher & Exploit Developer** focused on **W
 
 In his own research, he **discovered** various **vulnerabilities** in software of **multiple vendors** and tech giants like eBay, Facebook, Fastweb, Google, HP, McAfee, Microsoft, Oracle, Paypal, TIM and many others.
 
-Since the beginning of his career, he has enjoyed **sharing his expertise with the security community** with his website and [blog (voidsec.com)](https://voidsec.com). He is also an active speaker in various security conferences around the globe like: Typhooncon, Hacktivity, SEC-T, Droidcon, HackInBo, TOHack and M0leCon.
+Since the beginning of his career, he has enjoyed **sharing his expertise with the security community** with his website and [blog (voidsec.com)](https://voidsec.com). 
+He is also an active speaker in various security conferences around the globe like: Typhooncon, Hacktivity, SEC-T, Droidcon, HackInBo, TOHack and M0leCon.
 
 [A list of public vulnerabilities and CVEs that I have discovered can be found here.](https://voidsec.com/advisories/)
 
@@ -21,5 +22,7 @@ Contact me: [![](https://img.shields.io/badge/voidsec@voidsec.com-0078D4?style=f
 <a href="https://github.com/voidsec/voidsec">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voidsec&layout=compact&theme=chartreuse-dark&langs_count=8" />
 </a>
-
+<br>
+[![voidsec's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=voidsec)](https://github.com/voidsec/voidsec)
+<br>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=voidsec.voidsec" alt="visitor badge"/>  
