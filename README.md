@@ -14,7 +14,21 @@ He is also an active speaker in various security conferences around the globe li
 
 [A list of public vulnerabilities and CVEs that I have discovered can be found here.](https://voidsec.com/advisories/)
 
-Contact me: [![](https://img.shields.io/badge/voidsec@voidsec.com-0078D4?style=flat-square&logo=Microsoft-Outlook&labelColor=0078D4&logoColor=ffffff)](mailto:voidsec@voidsec.com)
+Contact me: 
+<p align="left">
+  <a href="https://twitter.com/Void_Sec">
+    <img src="https://img.shields.io/twitter/follow/Void_Sec?style=for-the-badge&label=%40Void_Sec&logo=twitter&logoColor=ffffff&labelColor=0078D4&color=ffffff">
+  </a>
+  <a href="https://www.linkedin.com/in/paolostagno/">
+    <img src="https://img.shields.io/badge/-paolo stagno-blue?style=for-the-badge&logo=Linkedin&logoColor=ffffff&labelColor=0078D4&color=ffffff">
+  </a>
+  <a href="mailto:voidsec@voidsec.com">
+    <img src="https://img.shields.io/badge/voidsec@voidsec.com-0078D4?style=for-the-badge&logo=Microsoft-Outlook&labelColor=0078D4&logoColor=ffffff">
+  </a>
+  <a href="https://keybase.io/voidsec">
+    <img src="https://img.shields.io/keybase/pgp/voidsec?style=for-the-badge&logoColor=ffffff&labelColor=0078D4&color=ffffff">
+  </a>
+</p>
 
 ## Statistics <img src="https://visitor-badge.laobi.icu/badge?page_id=voidsec.voidsec" alt="visitor badge"/>  
 <a href="https://github.com/voidsec/voidsec">
