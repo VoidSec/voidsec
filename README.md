@@ -37,6 +37,6 @@ He is also an active speaker in various security conferences around the globe li
 <a href="https://github.com/voidsec/voidsec">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voidsec&layout=compact&theme=chartreuse-dark&langs_count=8" />
 </a>
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=voidsec.voidsec" alt="visitor badge"/>
-</p>
+<br>
+<br>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=voidsec.voidsec" alt="visitor badge"/>
