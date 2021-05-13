@@ -14,7 +14,7 @@ He is also an active speaker in various security conferences around the globe li
 
 [A list of public vulnerabilities and CVEs that I have discovered can be found here.](https://voidsec.com/advisories/)
 
-## Contact me: 
+## Contact me
 <p align="center">
   <a href="https://twitter.com/Void_Sec">
     <img src="https://img.shields.io/twitter/follow/Void_Sec?style=for-the-badge&label=%40Void_Sec&logo=twitter&logoColor=00AEFF&labelColor=black&color=7fff00">
