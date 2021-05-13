@@ -30,10 +30,13 @@ He is also an active speaker in various security conferences around the globe li
   </a>
 </p>
 
-## Statistics <img src="https://visitor-badge.laobi.icu/badge?page_id=voidsec.voidsec" alt="visitor badge"/>  
+## Statistics 
 <a href="https://github.com/voidsec/voidsec">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=voidsec&count_private=true&show_icons=true&theme=chartreuse-dark" />
 </a>
 <a href="https://github.com/voidsec/voidsec">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voidsec&layout=compact&theme=chartreuse-dark&langs_count=8" />
 </a>
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=voidsec.voidsec" alt="visitor badge"/>
+</p>
