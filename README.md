@@ -2,7 +2,7 @@
 
 **Paolo Stagno** (aka **VoidSec**) has worked as a Penetration Tester for a wide range of clients across top tier international banks, major tech companies and various Fortune 1000 industries.
 
-At ZeroDayLab, he was responsible for **discovering and exploiting new unknown vulnerabilities** in **applications**, **network infrastructure** components, **IoT devices**, **protocols** and **technologies**.
+He was responsible for **discovering and exploiting new unknown vulnerabilities** in **applications**, **network infrastructure** components, **IoT devices**, **protocols** and **technologies**.
 
 He is now a freelance **Vulnerability Researcher & Exploit Developer** focused on **Windows offensive application security** (kernel and user-land). He enjoys understanding the digital world we live in, **disassembling**, **reverse engineering** and **exploiting** complex products and code.
 
