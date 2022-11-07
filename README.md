@@ -24,6 +24,7 @@ Since the beginning of his career, he has enjoyed **sharing his expertise with t
   <a href="https://keybase.io/voidsec">
     <img src="https://img.shields.io/keybase/pgp/voidsec?style=for-the-badge&logoColor=00AEFF&labelColor=black&color=7fff00">
   </a>
+  <a rel="me" href="https://infosec.exchange/@voidsec">Mastodon</a>
 </p>
 
 ## Statistics 
