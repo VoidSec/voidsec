@@ -10,7 +10,7 @@ In his own research, he **discovered** various **vulnerabilities** in software o
 
 Since the beginning of his career, he has enjoyed **sharing his expertise with the security community** with his website and blog ([voidsec.com](https://voidsec.com)). He is also an **active speaker** in various **security conferences** around the globe like HITB, Typhooncon, Hacktivity, SEC-T, Droidcon, HackInBo, M0leCon, TOHack and Meethack.
 
-[A non-exhaustive list of public vulnerabilities and CVEs that I have discovered can be found here.](https://voidsec.com/advisories/)
+A non-exhaustive list of public vulnerabilities and CVEs that he has discovered can be found at [voidsec.com/advisories/](https://voidsec.com/advisories/)
 
 ## Contact me
 <p align="center">
