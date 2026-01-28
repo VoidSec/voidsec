@@ -2,9 +2,9 @@
 
 **Paolo Stagno** (aka **VoidSec**) has worked as a Penetration Tester for a wide range of clients across top tier international banks, major tech companies and various Fortune 1000 industries. 
 
-He worked as a **Vulnerability Researcher** and **Exploit Developer** for **Exodus Intelligence**, where he was responsible for **discovering** and **exploiting** **unknown vulnerabilities** (zero days) in **Windows** OS, **enterprise applications**, **network infrastructure** components, **IoT devices**, new **protocols**, and **technologies**.
+He worked as a **Vulnerability Researcher** and **Exploit Developer** for **Exodus Intelligence**, where he was responsible for **discovering** and **exploiting** **unknown vulnerabilities** (zero days) in **Windows** OS (kernel and user-land), **enterprise applications**, **network infrastructure** components, **IoT devices**, new **protocols**, and **technologies**.
 
-He is now the **Director of Research** at **Crowdfense**, focused on **Windows OS offensive application security** (kernel and user-land). He enjoys understanding our digital world, **disassembling**, **reverse engineering** and **exploiting** complex products and code.
+He is now the **Director of Research** at **Crowdfense**, focused on **Computer Network Exploitation (CNE)** capabilities development. He enjoys understanding our digital world, **disassembling**, **reverse engineering** and **exploiting** complex products and code.
 
 In his own research, he **discovered** various **vulnerabilities** in software of **multiple vendors** and tech giants like eBay, Facebook, Fastweb, Google, HP, McAfee, Microsoft, Oracle, Paypal, TIM and many others.
 
