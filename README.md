@@ -4,7 +4,7 @@
 
 He worked as a **Vulnerability Researcher** and **Exploit Developer** for **Exodus Intelligence**, where he was responsible for **discovering** and **exploiting** **unknown vulnerabilities** (zero days) in **Windows** OS (kernel and user-land), **enterprise applications**, **network infrastructure** components, **IoT devices**, new **protocols**, and **technologies**.
 
-He is now the **Director of Research** at **Crowdfense**, focused on **Computer Network Exploitation (CNE)** capabilities development. He enjoys understanding our digital world, **disassembling**, **reverse engineering** and **exploiting** complex products and code.
+He previously served as **Chief Technology Officer and Director of Research** at Crowdfense, where he focused on the development of **Computer Network Exploitation (CNE)** capabilities. He enjoys understanding our digital world, **disassembling**, **reverse engineering** and **exploiting** complex products and code.
 
 In his own research, he **discovered** various **vulnerabilities** in software of **multiple vendors** and tech giants like eBay, Facebook, Fastweb, Google, HP, McAfee, Microsoft, Oracle, Paypal, TIM and many others.
 
